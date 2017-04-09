@@ -3,11 +3,11 @@
     font-size:24px;
     
     background-color:lightgrey;
-
+    
+    margin:0px 200px 0px;
+    
     border-style:solid;
     border-width:2px;
     border-color:black;
     border-radius:7px
-      
-    margin:0px 200px 0px;
     } 
