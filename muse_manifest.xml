@@ -1,7 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://1dhb.github.io" resolutions="1x" timestamp="1495091610363">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://1dhb.github.io" resolutions="1x" timestamp="1495156229820">
+  <folder name="assets">
+    <file name="dariusbrown_bscphysicsminorelectronics.pdf" crc="434260306" seo="true" mt="1495152732000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4066284551" ref="index"/>
+    <file name="index.css" crc="3814901240" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -28,6 +31,18 @@
     <file name="iconswimcolour.png" crc="3969931481" ref="index"/>
     <file name="iconmountain.png" crc="3875455789" ref="index"/>
     <file name="iconmountaincolour.png" crc="4196962358" ref="index"/>
+    <file name="icongamepadcolour.png" crc="202052281" ref="index"/>
+    <file name="iconeiffel.png" crc="521540659" ref="index"/>
+    <file name="iconeiffelcolour.png" crc="176416753" ref="index"/>
+    <file name="picturehandsusingphone.jpg" crc="429081168" ref="index"/>
+    <file name="facebook-logo (1).png" crc="4220009075" ref="index"/>
+    <file name="facebook-logo (3)-u1989-6-r-fr.png" crc="4192130284" ref="index"/>
+    <file name="iconlink.png" crc="4165124265" ref="index"/>
+    <file name="iconwhatsapp.png" crc="3838288359" ref="index"/>
+    <file name="iconwhatsappcolour-u2064-6-r-fr.png" crc="249103539" ref="index"/>
+    <file name="iconemail.png" crc="4241649042" ref="index"/>
+    <file name="iconemailcolour-u2097-6-r-fr.png" crc="4076624539" ref="index"/>
+    <file name="icondownload.png" crc="247246621" ref="index"/>
   </folder>
-  <file name="index.html" crc="4061072453" seo="true" mt="1495091546336" redirect="true"/>
+  <file name="index.html" crc="278928364" seo="true" mt="1495156227993" redirect="true"/>
 </manifest>
