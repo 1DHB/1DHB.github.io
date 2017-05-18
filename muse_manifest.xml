@@ -1,0 +1,33 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://1dhb.github.io" resolutions="1x" timestamp="1495091610363">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="4066284551" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="entrepreneur-working-on-his-macbook-picjumbo-com.jpg" crc="482135699" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="hard slit separator.png" crc="4180292817" seo="true" ref="index"/>
+    <file name="texturecanvas.jpg" crc="4104086469" ref="index"/>
+    <file name="picturedarius.jpg" crc="4167888011" ref="index"/>
+    <file name="torn slit separator.png" crc="4246148411" seo="true" ref="index"/>
+    <file name="icongamepad.png" crc="252504533" ref="index"/>
+    <file name="iconmagazine.png" crc="170716258" ref="index"/>
+    <file name="iconmagazinecolour.png" crc="38010044" ref="index"/>
+    <file name="iconhiker.png" crc="493498998" ref="index"/>
+    <file name="iconhikercolour.png" crc="15715887" ref="index"/>
+    <file name="iconswim.png" crc="4017487338" ref="index"/>
+    <file name="iconswimcolour.png" crc="3969931481" ref="index"/>
+    <file name="iconmountain.png" crc="3875455789" ref="index"/>
+    <file name="iconmountaincolour.png" crc="4196962358" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4061072453" seo="true" mt="1495091546336" redirect="true"/>
+</manifest>
